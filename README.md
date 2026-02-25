@@ -1,8 +1,8 @@
-#CODSOFT Python Projects
+# CODSOFT Python Projects
 
 This repository contains my projects for the CODSOFT Python Programming internship. These applications demonstrate my ability to build functional logic and user-friendly interfaces.
 
-#Featured Projects
+# Featured Projects
 
 1.Calculator
  A command-line calculator for basic math.
@@ -17,7 +17,7 @@ This repository contains my projects for the CODSOFT Python Programming internsh
  Allows multiple rounds with a "Reset" and "Exit" feature.
 
 
-#How to Run
+# How to Run
 1.Ensure you have Python installed.
 2.Run any file using:
   bash
